@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://dek0058.github.io'
-baseurl:          'https://dek0058.github.io'
+url:              "https://dek0058.github.io"
+baseurl:          "https://dek0058.github.io"
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
